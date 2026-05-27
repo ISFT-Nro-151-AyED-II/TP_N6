@@ -23,7 +23,7 @@ El mes correspondiente es: Diciembre
 
 **Prueba Fuera de Rango:**
 ```cmd
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python ejercicio_3_2.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python ejercicio_3.2.py
 Ingresá un número de mes (1-12): 15
 Error: El número ingresado está fuera de rango.
 ```
