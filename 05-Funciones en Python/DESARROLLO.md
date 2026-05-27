@@ -27,11 +27,11 @@ D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Traba
 Ingresá un año para verificar si es bisiesto: 2012
 El año 2012 ES bisiesto.
 
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python ejercicio_5.2.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python Ejercicio_5.2.py
 Ingresá un año para verificar si es bisiesto: 1900
 El año 1900 NO es bisiesto.
 
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python ejercicio_5.2.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python Ejercicio_5.2.py
 Ingresá un año para verificar si es bisiesto: 2000
 El año 2000 ES bisiesto.
 ```
@@ -41,7 +41,7 @@ El año 2000 ES bisiesto.
 
 **Prueba con lista poblada:**
 ```cmd
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python ejercicio_5.3.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python Ejercicio_5.3.py
 ¿Cuántas palabras querés agregar a la lista?: 3
 Ingresá la palabra 1: Sistema
 Ingresá la palabra 2: Análisis
@@ -52,7 +52,7 @@ La lista creada es: ['Sistema', 'Análisis', 'Python']
 
 **Prueba con lista vacía:**
 ```cmd
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python ejercicio_5.3.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\05-Funciones en Python>python Ejercicio_5.3.py
 ¿Cuántas palabras querés agregar a la lista?: 0
 
 La lista creada es: []

@@ -23,7 +23,7 @@ El mes correspondiente es: Diciembre
 
 **Prueba Fuera de Rango:**
 ```cmd
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python ejercicio_3.2.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python Ejercicio_3.2.py
 Ingresá un número de mes (1-12): 15
 Error: El número ingresado está fuera de rango.
 ```
@@ -42,7 +42,7 @@ La tabla del 5 guardada en la lista es:
 > 💡 **Enfoque técnico:** Se usó un diccionario (`dict`) donde las claves (`keys`) son los nombres. Esto garantiza una búsqueda en tiempo constante $O(1)$ para la validación de duplicados (operador `in`). El bucle se controla con un `while True` y la sentencia `break` para salir.
 
 ```cmd
-D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python ejercicio_3.4.py
+D:\Repositorios de GitHub\ISFT N°151\Algoritmos y Estructuras de Datos II\Trabajos Prácticos\TP_N6\03-Colecciones en el Lenguaje>python Ejercicio_3.4.py
 
 ===================
 GESTOR DE CONTACTOS
